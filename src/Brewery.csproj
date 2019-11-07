@@ -2,6 +2,15 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.0</TargetFramework>
+    <IsPackable>false</IsPackable>
+    <PackageVersion>0.0.1</PackageVersion>
+    <Title>Brewery</Title>
+    <Authors>Gregory Agapov</Authors>
+    <Description>Homebrew GUI</Description>
+    <Copyright>Gregory Agapov</Copyright>
+    <PackageProjectUrl>https://github.com/grgrwlkr/brewery</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/grgrwlkr/brewery</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Models\" />
