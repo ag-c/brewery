@@ -11,6 +11,9 @@
     <PackageProjectUrl>https://github.com/grgrwlkr/brewery</PackageProjectUrl>
     <RepositoryUrl>https://github.com/grgrwlkr/brewery</RepositoryUrl>
     <RepositoryType>Github</RepositoryType>
+    <PackageLicenseUrl>https://github.com/grgrwlkr/brewery/blob/master/LICENSE</PackageLicenseUrl>
+    <NeutralLanguage>en</NeutralLanguage>
+    <SignAssembly>true</SignAssembly>
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Models\" />
